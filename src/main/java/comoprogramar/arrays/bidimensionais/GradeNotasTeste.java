@@ -1,9 +1,9 @@
 package comoprogramar.arrays.bidimensionais;
 
 /**
- * GradeNotasTest
+ * GradeNotasTeste
  */
-public class GradeNotasTest {
+public class GradeNotasTeste {
 
     public static void main(String[] args) {
 
