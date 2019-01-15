@@ -14,3 +14,7 @@
         Exemplo de array bidimensional: exibindo valores de elemento
     7.12 Estudo de caso: classe GradeBook utilizando um array bidimensional
 
+#15/01/2019 Paginas: 225
+    7.16 Introdução a coleções e classe ArrayList
+    
+
