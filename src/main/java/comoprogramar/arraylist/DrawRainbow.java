@@ -10,6 +10,8 @@ import javax.swing.JPanel;
  */
 public class DrawRainbow extends JPanel{
 
+    private static final long serialVersionUID = 1L;
+
     private final static Color VIOLET = new Color(128, 0, 128);
     private final static Color INDIGO = new Color(75, 0, 130);
 
@@ -30,7 +32,7 @@ public class DrawRainbow extends JPanel{
         int centerX = getWidth() / 2;
         int centerY = getHeight() - 10;
 
-        for (int i = colors.length; i > 0; i++ ) {
+        for (int i = colors.length; i > 0; i-- ) {
 
             g.setColor(colors[i -1]);
 
@@ -40,10 +42,7 @@ public class DrawRainbow extends JPanel{
                     i * radius * 2,
                     0,
                     180);
-                    
+
         }
-
-
     }
-
 }
