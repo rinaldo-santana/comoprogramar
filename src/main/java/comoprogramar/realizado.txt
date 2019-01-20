@@ -16,5 +16,6 @@
 
 #15/01/2019 Paginas: 225
     7.16 Introdução a coleções e classe ArrayList
-    
 
+#19/01/2019 Paginas: 227
+    7.17 (Opcional) Estudo de caso de GUIs e imagens gráficas: desenhando arcos
